@@ -6,6 +6,7 @@ teaser: "My academic curriculum vitae."
 breadcrumb: true
 show_meta: false
 permalink: "/cv/"
+header: no
 tags:
     - cv
 ---
