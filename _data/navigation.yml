@@ -6,9 +6,9 @@
   url: "/research/"
   side: left
 
-- title: Publications
-  url: "/publications/"
-  side: left
+# - title: Publications
+  # url: "/publications/"
+  # side: left
 
 - title: Curriculum
   url: "/cv/"

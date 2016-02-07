@@ -14,13 +14,6 @@ widget-1:
     text: 'I find planets outside the Solar System.'
     button: false
 widget-2:
-    title: "Publications"
-    url: '/publications/'
-    text: "I'm an astronomer so all my papers are on ADS. 
-           But I keep an up-to-date list <a href='/publications/'>here</a>."
-    video: ''
-    button: false
-widget-3:
     title: "Curriculum"
     url: 'cv'
     text: 'Here is a pdf version and here is a fancy web version.'
@@ -34,3 +27,15 @@ widget-3:
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div> -->
+
+
+
+
+<!-- widget-2:
+    title: "Publications"
+    url: '/publications/'
+    text: "I'm an astronomer so all my papers are on ADS. 
+           But I keep an up-to-date list <a href='/publications/'>here</a>."
+    video: ''
+    button: false
+ -->
