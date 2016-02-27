@@ -26,7 +26,7 @@
 - name: Orcid
   url: http://orcid.org/0000-0002-6728-244X
   class: ai-orcid
-  title: blah
+  title: "Me: permanent, persistent, identifiable."
 
 # - name: Instagram
 #   url: http://instagram.com/phlowmedia
