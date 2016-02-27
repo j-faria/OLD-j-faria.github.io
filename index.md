@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Research"
-    url: '/research/'
+    url: 'research'
     text: 'I find planets outside the Solar System.'
     button: false
 widget-2:
