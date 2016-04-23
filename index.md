@@ -7,7 +7,9 @@
 layout: frontpage
 title: "Homepage of João Faria"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header.jpg"
+   caption: Photo by Jeremy Thomas
+   caption_url: https://unsplash.com/jeremy_thomas
 widget-1:
     title: "Research"
     url: 'research'
