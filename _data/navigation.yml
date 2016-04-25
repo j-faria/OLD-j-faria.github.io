@@ -71,7 +71,7 @@
 #     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/archive/"
+  url: "/blog/"
   side: left
   # dropdown:
   # - title: Blog

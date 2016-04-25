@@ -89,7 +89,7 @@ format: blog-index
     <div class="medium-6 columns">
         <!-- subheadline, above title -->
         <!-- <p class="subheadline">blablabla</p> -->
-        <h2><a href="{{ site.url }}{{ post.url }}">Statistically Significant Other</a></h2>
+        <h2><a href="{{ site.url }}/blog">Statistically Significant Other</a></h2>
         <p>
             Every now and then everyone feels the urge to rant on the internet and a blog is the perfect place for that.
             <!-- <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a> -->
@@ -99,8 +99,8 @@ format: blog-index
 
     <div class="medium-6 columns">
         <!-- <p><strong>{{ site.data.language.more_articles }}</strong></p> -->
-        <p><strong>Posts</strong></p>
-        {% include list-posts.html entries='3' offset='1' %}
+        <p><strong>Recent Posts</strong></p>
+        {% include list-posts.html entries='3' offset='0' %}
     </div><!-- /.medium-7.columns -->
 </div><!-- /.row -->
 
