@@ -23,6 +23,11 @@
   class: icon-github
   title: Social coding and open source ftw.
 
+- name: Orcid
+  url: http://orcid.org/0000-0002-6728-244X
+  class: ai-orcid
+  title: "Me: permanent, persistent, identifiable."
+
 # - name: Instagram
 #   url: http://instagram.com/phlowmedia
 #   class: icon-instagram

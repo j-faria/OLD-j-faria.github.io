@@ -1,16 +1,14 @@
 ---
 layout: page
 title:  "Research"
-teaser: "This is what I've been working on"
 categories:
-    - me
-show_meta: false
 header: no
 image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: concept_cloud.png
+    caption: This concept cloud was generated with ADS Bumblebee
+    caption_url: https://ui.adsabs.harvard.edu/
 permalink: "/research/"
+show_meta: false
 ---
 
 
@@ -34,5 +32,14 @@ From models of planet formation. In the metal-poor regime, however, there are st
 
 
 
+
+
+I work with radial-velocitiy data. Specifically, data from one of the best spectrographs we have, HARPS. I use these data to search for planets around stars with low metallicity, because we are not sure if planets are common around this type of stars. 
+
+The issue is that detecting low mass planets (the ones we are interested in) is quite difficult and requires a large number of measurements! 
+
+It also requires complex data analysis techniques in order to detect the radial-velocity signals, at the level of 1 m/s or less, that are induced by the planets. Furthermore, contaminations from stellar activity and instrument systematics can produce spurious signals that mimic planetary signals. Thus, they need to be taken into account when trying to detect very low mass planets. 
+
+This is where my love of statistics and probability comes into play. 
 
 {% bibliography --cited %}

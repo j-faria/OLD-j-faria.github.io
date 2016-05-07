@@ -1,14 +1,17 @@
 ---
-layout: page
-sidebar: right
-title:  "Curriculum"
-teaser: "My academic curriculum vitae."
-breadcrumb: true
+layout: page-fullwidth
+title:  ""
+teaser: "My academic curriculum vitae"
+breadcrumb: false
 show_meta: false
 permalink: "/cv/"
 header: no
 tags:
     - cv
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
 
+
+<iframe src="http://j-faria.github.io/cv/cv.test.html" width="100%" height="800px"></iframe>
+
+This HTML version of my CV was created with 
+<a href="http://coolwanglu.github.io/pdf2htmlEX/" target="_blank">pdf2htmlEX</a>.
