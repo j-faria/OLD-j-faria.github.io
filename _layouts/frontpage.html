@@ -105,6 +105,22 @@ format: blog-index
 </div><!-- /.row -->
 
 
+<p padding-bottom: 5cm;></p>
+
+<div class="row">
+    <div class="medium-6 columns">
+          <h4> <a href="https://twitter.com/{{site.author.twitter}}"><i class="fa fa-twitter"></i> Recent Tweets </a></h4> 
+            {% twitter_feed astroaware, 3 %}
+    </div><!-- /.medium-4.columns -->
+
+
+    <div class="medium-6 columns">
+          <h4> <a href="https://github.com/{{site.author.github}}"><i class="fa fa-github" alt="github"></i> Over at GitHub </a></h4> 
+            {% github_feed j-faria, 3 %}
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+
 {% comment %}
 *
 * Finally, if there is content, spit it out.

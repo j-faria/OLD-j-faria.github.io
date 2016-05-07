@@ -10,6 +10,15 @@
 # Title of your website
 title: "João Faria"
 
+author:
+  name: João Faria
+  givenName: João
+  familyName: Faria
+  twitter: astroaware
+  github: j-faria
+  # mendeley: carl-boettiger
+  email: joao.faria@astro.up.pt
+
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Personal webpage of João Faria"
