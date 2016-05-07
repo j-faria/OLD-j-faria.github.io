@@ -77,7 +77,7 @@ exclude:
     - LICENSE
     - README.md
 
-gems: ['jekyll/scholar']
+gems: ['jekyll/scholar', 'jekyll-paginate']
 
 
 #
