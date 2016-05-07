@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Faria</title>
+    <description>I am a PhD student in astrophysics, trying to find and understand exoplanets.</description>
+    <link>http://j-faria.github.io/astro.up.pt.jfaria/</link>
+    <atom:link href="http://j-faria.github.io/astro.up.pt.jfaria/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The purpose of a plot</title>
+        <description>&lt;p&gt;Inspired by the works of Edward Tufte and Jean-luc Doumont (or, I should say, my interpretration of their work), I have recently started to create new visualisations of my data. These go beyond simply changing the default values of the tool I use to make plots (matplotlib). A plot can also convey information in less standard ways.&lt;/p&gt;
+
+&lt;ul class=&quot;clearing-thumbs small-block-grid-2&quot; data-clearing=&quot;&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;http://j-faria.github.io/astro.up.pt.jfaria/images/histogram1.png&quot;&gt;&lt;img data-caption=&quot;caption 1&quot; src=&quot;http://j-faria.github.io/astro.up.pt.jfaria/images/histogram1.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://j-faria.github.io/astro.up.pt.jfaria/images/histogram2.png&quot;&gt;&lt;img data-caption=&quot;caption 2&quot; src=&quot;http://j-faria.github.io/astro.up.pt.jfaria/images/histogram2.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For example, the use of linearly spaced axis tick labels is completely arbitrary and only serves to decrease Tufte’s Data-Ink ratio. The plots above are an example on how to make the axis labels convey extra information. They both show the same data. On the right, I only label the minimum, mean and maximum values on the x axis. This way, the axis gives a substantial ammount of information, and all it takes is a quick glance.&lt;/p&gt;
+
+&lt;p&gt;Despite the aesthetical differences between the two plots, which I will discuss another time, there is also a functional difference, as the right plot fulfils its purpose more fully.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 +0100</pubDate>
+        <link>http://j-faria.github.io/astro.up.pt.jfaria/blog/purpose-of-a-plot/</link>
+        <guid isPermaLink="true">http://j-faria.github.io/astro.up.pt.jfaria/blog/purpose-of-a-plot/</guid>
+      </item>
+    
+  </channel>
+</rss>
