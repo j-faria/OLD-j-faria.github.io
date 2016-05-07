@@ -3,11 +3,12 @@ layout: page
 title:  "The purpose of a plot"
 teaser: "If you are to show a plot in any scientific publication, it should have a purpose. In addition to that, I believe, it should be pleasing to look at."
 categories:
-    - design
+    - blog
 tags:
     - design
     - visualisation
 header: no
+comments: true
 ---
 
 Inspired by the works of Edward Tufte and Jean-luc Doumont (or, I should say, my interpretration of their work), I have recently started to create new visualisations of my data. These go beyond simply changing the default values of the tool I use to make plots (matplotlib). A plot can also convey information in less standard ways.
