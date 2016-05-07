@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Homepage of João Faria"
+title: "João Faria, IA/U.Porto"
 header:
    image_fullwidth: "header.jpg"
    caption: Photo by Jeremy Thomas
@@ -21,6 +21,7 @@ widget-2:
     text: 'Here is a pdf version and here is a fancy web version.'
     button: false
 ---
+
 
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
