@@ -4,7 +4,7 @@ title:  ""
 teaser: "My academic curriculum vitae"
 breadcrumb: false
 show_meta: false
-permalink: "/cv/"
+permalink: "/cvitae/"
 header: no
 tags:
     - cv
