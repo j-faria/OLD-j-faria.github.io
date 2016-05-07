@@ -76,6 +76,7 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - makefile
 
 gems: ['jekyll/scholar', 'jekyll-paginate']
 
