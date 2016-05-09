@@ -3,16 +3,37 @@
   <channel>
     <title>João Faria</title>
     <description>I am a PhD student in astrophysics, trying to find and understand exoplanets.</description>
-    <link>http://j-faria.github.io/</link>
-    <atom:link href="http://j-faria.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Testing videos with oembed</title>
+        <description>&lt;p&gt;I just found &lt;a href=&quot;https://gist.github.com/vanto/1455726&quot;&gt;this&lt;/a&gt; little plugin that provides the &lt;code class=&quot;highlighter-rouge&quot;&gt;oembed&lt;/code&gt; tag and seems like the easiest way to get YouTube videos to show up here.&lt;/p&gt;
+
+&lt;p&gt;So, for example, I can recover the video I posted on the 10th of April 2014 like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;center&amp;gt;
+{% oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw %}
+&amp;lt;/center&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;center&gt;
+&lt;div class=&quot;embed video YouTube&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/nq0_zGzSc8g?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Mon, 09 May 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/testing-videos/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/testing-videos/</guid>
+      </item>
     
       <item>
         <title>The purpose of a plot</title>
         <description>&lt;p&gt;Inspired by the works of Edward Tufte and Jean-luc Doumont (or, I should say, my interpretration of their work), I have recently started to create new visualisations of my data. These go beyond simply changing the default values of the tool I use to make plots (matplotlib). A plot can also convey information in less standard ways.&lt;/p&gt;
 
 &lt;ul class=&quot;clearing-thumbs small-block-grid-2&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://j-faria.github.io/images/histogram1.png&quot;&gt;&lt;img data-caption=&quot;caption 1&quot; src=&quot;http://j-faria.github.io/images/histogram1.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://j-faria.github.io/images/histogram2.png&quot;&gt;&lt;img data-caption=&quot;caption 2&quot; src=&quot;http://j-faria.github.io/images/histogram2.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/histogram1.png&quot;&gt;&lt;img data-caption=&quot;caption 1&quot; src=&quot;http://localhost:4000/images/histogram1.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/histogram2.png&quot;&gt;&lt;img data-caption=&quot;caption 2&quot; src=&quot;http://localhost:4000/images/histogram2.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For example, the use of linearly spaced axis tick labels is completely arbitrary and only serves to decrease Tufte’s Data-Ink ratio. The plots above are an example on how to make the axis labels convey extra information. They both show the same data. On the right, I only label the minimum, mean and maximum values on the x axis. This way, the axis gives a substantial ammount of information, and all it takes is a quick glance.&lt;/p&gt;
@@ -20,8 +41,8 @@
 &lt;p&gt;Despite the aesthetical differences between the two plots, which I will discuss another time, there is also a functional difference, as the right plot fulfils its purpose more fully.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 +0100</pubDate>
-        <link>http://j-faria.github.io/blog/purpose-of-a-plot/</link>
-        <guid isPermaLink="true">http://j-faria.github.io/blog/purpose-of-a-plot/</guid>
+        <link>http://localhost:4000/blog/purpose-of-a-plot/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/purpose-of-a-plot/</guid>
       </item>
     
   </channel>
