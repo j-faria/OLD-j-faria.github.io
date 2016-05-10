@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"aspect_ratio_factor	param"
+			],
+			[
+				"set",
+				"set_random_position	function"
+			],
+			[
+				"el",
+				"else	keyword"
+			],
+			[
+				"cl",
+				"clip	True"
+			],
+			[
+				"ar",
+				"ar	param"
+			],
+			[
+				"uni",
+				"uniform	import"
+			],
+			[
+				"xpo",
+				"xpos1	statement"
+			],
+			[
+				"f",
+				"fill_space	function"
+			],
+			[
+				"rand",
+				"random_space_filling_below_function	module"
+			],
+			[
+				"fil",
+				"fill_space"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cir",
+				"circles_placed	statement"
+			],
+			[
+				"int",
+				"interceptions	statement"
+			],
+			[
+				"in",
+				"interceptions	statement"
+			],
+			[
+				"pl",
+				"place_in_fig"
+			],
+			[
+				"ci",
+				"circles_placed	statement"
+			],
+			[
+				"se",
+				"set_random_position	function"
+			],
+			[
+				"reu",
+				"return	keyword"
+			],
+			[
+				"da",
+				"dateend"
+			],
+			[
+				"g",
+				"google_calendar_link"
+			],
+			[
+				"ics",
+				"icslink"
+			],
+			[
+				"dt",
+				"dtstart"
+			],
+			[
+				"ind",
+				"individual_events"
+			],
+			[
+				"cal",
+				"calendarID"
+			],
+			[
+				"covQ",
+				"covQP"
+			],
+			[
+				"vpo",
+				"vpos3	statement"
+			],
+			[
+				"v",
+				"vpos2	statement"
+			],
+			[
+				"hpo",
+				"hpos1	statement"
+			],
+			[
+				"hi",
+				"hidden2"
+			],
+			[
+				"mu",
+				"muP"
+			],
+			[
+				"hpo0",
+				"hpos0	statement"
+			],
+			[
+				"up",
+				"Update"
+			],
+			[
+				"vpos",
+				"vpos2	statement"
+			],
+			[
+				"x",
+				"x_grid	statement"
+			],
+			[
+				"gau",
+				"gaussian_kde	import"
+			],
+			[
+				"ga",
+				"gaussian_kde"
+			],
+			[
+				"sci",
+				"kde_scipy"
+			],
+			[
+				"smoo",
+				"smooth1d	param"
+			],
+			[
+				"lo",
+				"logrange"
+			],
+			[
+				"log",
+				"log_xaxis	param"
+			],
+			[
+				"share",
+				"shared_axis	param"
+			],
+			[
+				"fi",
+				"figsize"
+			],
+			[
+				"max",
+				"max_components	statement"
+			],
+			[
+				"get",
+				"get_marginals	function"
+			],
+			[
+				"op",
+				"options	param"
+			],
+			[
+				"mak",
+				"make_plot	function"
+			],
+			[
+				"per",
+				"periods	statement"
+			],
+			[
+				"star",
+				"start_parameters	statement"
+			],
+			[
+				"di",
+				"diffusion_plot	function"
+			],
+			[
+				"at",
+				"atleast_2d	function"
+			],
+			[
+				"data",
+				"data_ylimits	statement"
+			],
+			[
+				"nd",
+				"n_dist_print	statement"
+			],
+			[
+				"st",
+				"start_objects_print	statement"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"sam",
+				"sample_conditional"
+			],
+			[
+				"bin",
+				"binom_coeff	class"
+			],
+			[
+				"time",
+				"time_span	statement"
+			],
+			[
+				"mea",
+				"mean_sigma_i	statement"
+			],
+			[
+				"sp",
+				"spectral_types	statement"
+			],
+			[
+				"onl",
+				"onlinefile	statement"
+			],
+			[
+				"spl",
+				"split_content"
+			],
+			[
+				"cs",
+				"csi_s"
+			],
+			[
+				"vel_f",
+				"vel_from_file"
+			],
+			[
+				"typ",
+				"type_noise"
+			],
+			[
+				"inj",
+				"injecting"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"y",
+				"yerr"
+			],
+			[
+				"show",
+				"show_years"
+			],
+			[
+				"set_x",
+				"set_xticks"
+			],
+			[
+				"set_",
+				"set_ticks"
+			],
+			[
+				"ax",
+				"ax_inset2"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"para",
+				"params_poster"
+			],
+			[
+				"r",
+				"rspace"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"me",
+				"mean_vrad"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"hea",
+				"header2"
+			],
+			[
+				"he",
+				"header1"
+			],
+			[
+				"resid",
+				"residuals"
+			],
+			[
+				"full",
+				"full_path"
+			],
+			[
+				"dete",
+				"detections"
+			],
+			[
+				"OP",
+				"OPEN"
+			],
+			[
+				"sta",
+				"stars_75"
+			],
+			[
+				"colr",
+				"colors"
+			],
+			[
+				"__st",
+				"__star_name"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"fit",
+				"fit_vec"
+			],
+			[
+				"Po",
+				"PointMeasurements"
+			],
+			[
+				"Pi",
+				"PointMeasurements"
+			],
+			[
+				"Ev",
+				"EventData"
+			],
+			[
+				"trend",
+				"trend_parameter"
+			],
+			[
+				"on",
+				"only_vsys"
+			],
+			[
+				"no",
+				"nobserv"
+			],
+			[
+				"tr",
+				"trend_degree"
+			],
+			[
+				"tren",
+				"trend_degree"
+			],
+			[
+				"pea",
+				"peak_wf"
+			],
+			[
+				"cle",
+				"CLEAN_per"
+			],
+			[
+				"Pe",
+				"PeriodogramBase"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"oth",
+				"other_per_variable"
+			],
+			[
+				"FAPS",
+				"plot_FAPs"
+			],
+			[
+				"not",
+				"ntotal"
+			],
+			[
+				"plo",
+				"plot_FAPs"
+			],
+			[
+				"ecc",
+				"eccentricities"
+			],
+			[
+				"sig",
+				"sig_mean"
+			],
+			[
+				"ext",
+				"extra_sigma"
+			],
+			[
+				"ln",
+				"lnprior2"
+			],
+			[
+				"secon",
+				"second_per"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"set_y",
+				"set_ylabel"
+			],
+			[
+				"extr",
+				"extras"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"to",
+				"together"
+			],
+			[
+				"quati",
+				"quantities"
+			],
+			[
+				"quant",
+				"quantities"
+			],
+			[
+				"ke",
+				"keplerM"
+			],
+			[
+				"set_yl",
+				"set_ylim"
+			],
+			[
+				"tri",
+				"trial_periods"
+			],
+			[
+				"po",
+				"power_at_trial_P"
+			],
+			[
+				"fap",
+				"fap_per"
+			],
+			[
+				"tem",
+				"temp_per"
+			],
+			[
+				"pow",
+				"power_vect"
+			],
+			[
+				"HD2",
+				"HD21132"
+			],
+			[
+				"whi",
+				"which"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/frontpage.html",
+			"settings":
+			{
+				"buffer_size": 4943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PythonTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/User/StandardLatex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"fiug",
+				"Snippet: figure"
+			],
+			[
+				"sni",
+				"Snippet: Figure"
+			],
+			[
+				"wrap",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"l",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: OPENheader"
+			],
+			[
+				"fo",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"for",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"syn la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"syn p",
+				"Set Syntax: Python"
+			],
+			[
+				"syn lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joao/phd/thesis/detection_in_RV.tex",
+		"/home/joao/phd/thesis/the_likelihood.tex",
+		"/home/joao/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/joao/phd/thesis/scheduling.tex",
+		"/home/joao/phd/thesis/derivation_RV_curve.tex",
+		"/home/joao/phd/thesis/introduction.tex",
+		"/home/joao/phd/thesis/turon-thesis/thesis.tex",
+		"/home/joao/phd/thesis/turon-thesis/language.tex",
+		"/home/joao/phd/thesis/turon-thesis/summary.tex",
+		"/home/joao/Work/spotshifts_ASantos/spotshifts_ASantos.tex",
+		"/home/joao/phd/3_min_thesis/shrug.txt",
+		"/home/joao/phd/large_program/190.C-0027_FP.cat",
+		"/home/joao/phd/large_program/README.P94",
+		"/home/joao/phd/thesis/turon-thesis/packages.tex",
+		"/home/joao/phd/thesis/turon-thesis/part-understanding.tex",
+		"/home/joao/phd/thesis/metal-poor-sample.tex",
+		"/home/joao/phd/thesis/scripts/styler.py",
+		"/home/joao/phd/thesis/cover/make_cover_fig.py",
+		"/home/joao/phd/thesis/effects-stellar-activity.tex",
+		"/home/joao/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/joao/Work/thesis/cover/random_space_filling_below_function.py",
+		"/home/joao/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/home/joao/.config/sublime-text-3/Packages/User/Python.sublime-build",
+		"/home/joao/Work/thesis/cover/random_space_filling.py",
+		"/opt/sublime_text/Packages/Python.sublime-package",
+		"/home/joao/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/joao/phd/thesis/introduction.aux",
+		"/home/joao/Work/OPEN/OPEN/classes.py",
+		"/home/joao/phd/thesis/scripts/test_histogram.py",
+		"/home/joao/WeekDigest.14Dec2015.18Dec2015.html",
+		"/home/joao/Downloads/Answer_Referee_report.txt",
+		"/home/joao/SANTOS_instructions_Felipe.txt",
+		"/home/joao/vizier_query.py",
+		"/home/joao/Work/thesis/tufte-book.cls",
+		"/home/joao/Work/thesis/titlepage.tex",
+		"/usr/local/texlive/2015/texmf-dist/doc/latex/classicthesis/FrontBackmatter/Titlepage.tex",
+		"/usr/local/texlive/2015/texmf-dist/doc/latex/classicthesis/ClassicThesis.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/classicthesis/classicthesis.sty",
+		"/home/joao/Work/thesis/copyright.tex",
+		"/home/joao/Work/thesis/turon-thesis/macros.tex",
+		"/home/joao/Work/thesis/turon-thesis/titlepage.tex",
+		"/home/joao/Work/thesis/contents.tex",
+		"/home/joao/Work/thesis/turon-thesis/intro.tex",
+		"/home/joao/Work/thesis/tufte-common.def",
+		"/home/joao/Work/thesis/turon-thesis/part-prologue.tex",
+		"/home/joao/Work/thesis/packages.tex",
+		"/home/joao/Work/thesis/turon-thesis/packages.tex",
+		"/home/joao/Work/thesis/turon-thesis/contents.tex",
+		"/home/joao/Work/thesis/abstract.tex",
+		"/home/joao/Work/thesis/turon-thesis/abstract.tex",
+		"/home/joao/Work/thesis/resumo.tex",
+		"/home/joao/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+		"/home/joao/Work/thesis/turon-thesis/colophon.tex",
+		"/home/joao/Work/styler.py",
+		"/home/joao/.cache/.fr-UffgJL/example_text.tex",
+		"/home/joao/.cache/.fr-7jNODw/example_bib_foot.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def",
+		"/home/joao/phd/bib/zotero_library.bib",
+		"/home/joao/Work/thesis/custom-numeric-comp.cbx",
+		"/home/joao/Work/thesis/custom-numeric-comp.bbx",
+		"/home/joao/Work/thesis/tufte-book-local.tex",
+		"/home/joao/Downloads/eo-events",
+		"/home/joao/BitTorrent Sync/SeminarDigest/IAseminars.ics",
+		"/home/joao/BitTorrent Sync/SeminarDigest/landingpage.html",
+		"/home/joao/Downloads/basic (1).ics",
+		"/home/joao/BitTorrent Sync/SeminarDigest/NWExcWRrMmNuaWl2b3YzaDk5czdxcWhocmMgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw.ics",
+		"/home/joao/Downloads/basic.ics",
+		"/home/joao/BitTorrent Sync/SeminarDigest/ZGJkbHBnMzhiNzVscW92cThkZ2FlNmtrajQgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw.ics",
+		"/home/joao/Downloads/ZGJkbHBnMzhiNzVscW92cThkZ2FlNmtrajQgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw (3).ics",
+		"/home/joao/Downloads/dbdlpg38b75lqovq8dgae6kkj4 (1).ics",
+		"/home/joao/Downloads/dbdlpg38b75lqovq8dgae6kkj4.ics",
+		"/home/joao/Downloads/ZGJkbHBnMzhiNzVscW92cThkZ2FlNmtrajQgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw (5).ics",
+		"/home/joao/Downloads/ZGJkbHBnMzhiNzVscW92cThkZ2FlNmtrajQgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw (1).ics",
+		"/home/joao/Downloads/ZGJkbHBnMzhiNzVscW92cThkZ2FlNmtrajQgMmRhNnFsODJwaTRuOGw0NjQ3MDI2cjV1dmNAZw.ics",
+		"/home/joao/Documents/BayesCourse/demo.tex",
+		"/home/joao/Documents/BayesCourse/beamerouterthememetropolis.sty",
+		"/home/joao/Documents/BayesCourse/beamerinnerthememetropolis.sty",
+		"/home/joao/Documents/BayesCourse/beamerthemem.sty",
+		"/home/joao/Work/daft/daft.py",
+		"/home/joao/phd/many-measurements/header.tex",
+		"/home/joao/phd/many-measurements/preamble.tex",
+		"/home/joao/phd/data/extra/exoplanet.eu_catalog.csv",
+		"/home/joao/phd/data/extra/exoplanet.eu_catalog.dat",
+		"/home/joao/Software/Exoplanet/sample.txt",
+		"/home/joao/phd/many-measurements/abstract.tex",
+		"/home/joao/phd/many-measurements/title.tex",
+		"/home/joao/phd/HD41248-definitive-paper/paper.tex",
+		"/home/joao/phd/HD41248-definitive-paper/prior_table.tex",
+		"/home/joao/Work/corner/corner.py",
+		"/home/joao/Work/corner/demo.py",
+		"/home/joao/Software/DNest3/include/StartImpl.h",
+		"/home/joao/Software/DNest3/include/MTSampler.h",
+		"/home/joao/Software/DNest3/include/MTSamplerImpl.h",
+		"/home/joao/Software/Exoplanet/display.py",
+		"/home/joao/Software/RJObject/Documents/manual.tex",
+		"/home/joao/Software/Exoplanet/doc/ms.tex",
+		"/home/joao/Software/Exoplanet/dnest_plots.py",
+		"/home/joao/Software/DNest3/Makefile",
+		"/home/joao/Software/Exoplanet/Makefile",
+		"/home/joao/Software/Exoplanet/posterior_sample.txt",
+		"/home/joao/Software/Exoplanet/Lookup.cpp",
+		"/home/joao/Software/Exoplanet/Orbit.cpp",
+		"/home/joao/Software/Exoplanet/Lookup.h",
+		"/home/joao/Work/OPEN/RJDNest3/include/Orbit.h",
+		"/home/joao/Software/Exoplanet/MyDistribution.cpp",
+		"/home/joao/Software/RJObject/RJObjectImpl.h",
+		"/home/joao/Software/Exoplanet/MyModel.h",
+		"/home/joao/Software/Exoplanet/Data.h",
+		"/home/joao/Software/Exoplanet/orbits.py",
+		"/home/joao/phd/many-measurements/layout.md",
+		"/home/joao/Work/cv2015/resume.test.tex",
+		"/home/joao/phd/many-measurements/intro.tex",
+		"/home/joao/phd/many-measurements/results.tex",
+		"/home/joao/phd/LP_authors.txt",
+		"/home/joao/phd/many-measurements/authorea_build/aa.cls",
+		"/tmp/SiMgFe_print_edited.tex",
+		"/home/joao/phd/many-measurements/authorea_build/online.tex",
+		"/home/joao/phd/data/scripts/metal_poor_plot6.py",
+		"/home/joao/phd/data/scripts/metal_poor_plot7.py",
+		"/home/joao/phd/data/scripts/metal_poor_plot5.py",
+		"/home/joao/phd/data/scripts/metal_poor_plot.py",
+		"/home/joao/phd/many-measurements/acknowledgements.tex",
+		"/home/joao/phd/many-measurements/methods.tex",
+		"/home/joao/phd/many-measurements/HD87838.tex",
+		"/home/joao/phd/many-measurements/bibliography/biblio.bib",
+		"/home/joao/phd/many-measurements/fits/HD87838_68d.log",
+		"/home/joao/phd/many-measurements/authorea_build/75pt-paper.tex",
+		"/home/joao/Work/bayesiancorrelation/BayesCorr.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"effects_of_stellar_activity",
+			"genextreme",
+			"norm",
+			"genextreme",
+			"x",
+			"numsep",
+			"DeclareRobustCommand",
+			"maketex",
+			"spacedall",
+			"llap",
+			"crushr",
+			"maketitl",
+			"color",
+			"maketi",
+			"qsource",
+			"toc",
+			"Abstract",
+			"builder",
+			"build",
+			"plt",
+			"full",
+			"year",
+			"univer",
+			"faculty",
+			"subti",
+			"0.8",
+			"uni",
+			"university",
+			"publisher",
+			"\\author",
+			"name:last}",
+			"santos2003",
+			"author}",
+			"natbib",
+			"natb",
+			"example_ref_list",
+			"biblio",
+			"natbi",
+			"monthye",
+			"biblio",
+			"require",
+			"toc",
+			"family",
+			"titlepa",
+			"title",
+			"darkgr",
+			"xcolor",
+			"\\textcolor{darkgray}",
+			"titlepage",
+			"chapterNumber",
+			"\\thechapter",
+			"chapter",
+			"chapterNumber",
+			"\\titlerule",
+			"chapter",
+			"a4paper",
+			"\\VDQI",
+			"\\vdqi",
+			"\\VDQI",
+			"\\vdqi",
+			"\"",
+			"\"\"\"",
+			"gcal_link",
+			"h1",
+			"starttime",
+			"dtstart",
+			"*}",
+			"{table}",
+			"tablefoot",
+			"table",
+			"inserttitle",
+			"title",
+			"\\inserttitle",
+			"title",
+			"date",
+			"cov",
+			"equation",
+			"^{\\rm k",
+			"Big",
+			"corot",
+			"_p",
+			"p",
+			"theta",
+			"tex",
+			"&",
+			"*",
+			"_k",
+			"straightline_pgm",
+			"-0.5",
+			"2.4",
+			"ytrue",
+			"Rectangle",
+			".scale",
+			"self._nodes",
+			"nodes",
+			"kde",
+			"gaussian_filter",
+			"smooth1d",
+			"kde",
+			"bins",
+			"ax.set_xticklabels([])",
+			"max_components",
+			"posterior_sample",
+			"hist2d",
+			"None",
+			"options.get_levelsFile()",
+			"savepart",
+			"4",
+			"2.00129598",
+			"' '",
+			"<<' '<<",
+			"  ",
+			"V",
+			"HD88725",
+			"50",
+			"plot",
+			"fwhm",
+			"dumusque2010",
+			"2010",
+			"textb",
+			"fxnote",
+			"fxno",
+			"fx",
+			"[h]",
+			"authorea_paper",
+			"fx",
+			"fxnote",
+			"pyt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Keplerian",
+			"\\,",
+			"Keplerian",
+			"\\,",
+			"0.95",
+			"self.nest_samples",
+			"    ",
+			"! ",
+			"    ",
+			"   ",
+			"SUBROUTINE",
+			"r",
+			"    ",
+			"",
+			"\\t",
+			"    ",
+			"\\t",
+			"!",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/frontpage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sam",
+				"~/phd/many-measurements/sample.tex"
+			],
+			[
+				"intr",
+				"~/phd/many-measurements/intro.tex"
+			],
+			[
+				"ana",
+				"~/phd/many-measurements/analysis.tex"
+			],
+			[
+				"pre",
+				"~/phd/many-measurements/preamble.tex"
+			],
+			[
+				"mak",
+				"~/phd/many-measurements/makefile"
+			],
+			[
+				"make",
+				"~/phd/many-measurements/makefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
