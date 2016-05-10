@@ -109,14 +109,14 @@ format: blog-index
 
 <div class="row">
     <div class="medium-6 columns">
-          <h4> <a href="https://twitter.com/{{site.author.twitter}}"><i class="fa fa-twitter"></i> Recent Tweets </a></h4> 
+          <h4> <a href="https://twitter.com/{{site.author.twitter}}"><i class="social-icons icon-twitter"></i> Recent Tweets </a></h4> 
             {% twitter_feed astroaware, 3 %}
     </div><!-- /.medium-4.columns -->
 
 
     <div class="medium-6 columns">
-          <h4> <a href="https://github.com/{{site.author.github}}"><i class="fa fa-github" alt="github"></i> What I'm reading </a></h4> 
-            {% zotero_feed j-faria, 10 %}
+          <h4> <a href="https://www.zotero.org/j-faria/items"><i class="ai ai-zotero-square" alt="zotero"></i> What I'm reading </a></h4> 
+            {% zotero_feed 10 %}
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 

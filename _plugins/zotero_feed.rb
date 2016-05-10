@@ -9,9 +9,8 @@ module Jekyll
     def initialize(tag_name, text, tokens)
       super
       input = text.split(/, */ )
-      @user = input[0]
-      @count = input[1]
-      if input[1] == nil
+      @count = input[0]
+      if input[0] == nil
         @count = 3
       end
     end
@@ -26,9 +25,9 @@ module Jekyll
         for i in 0 ... @count.to_i
           if feed.entries[i].itemtype.eql? "journalArticle"
             out = out + "<li>" +
-            " <a href=\"blank\">" +
-            feed.entries[i].published.strftime("%I:%M %Y/%m/%d") + ": </a>" +
-            feed.entries[i].authors + ": " +
+            # " <a href=\"blank\">" +
+            # feed.entries[i].published.strftime("%I:%M %Y/%m/%d") + ": </a>" +
+            feed.entries[i].authors + " - " +
             "<em>" +
             feed.entries[i].title
             "</em>" +
