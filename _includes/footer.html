@@ -8,15 +8,18 @@
     <footer id="footer-content" class="bg-grau">
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="b30 small-12 medium-6 columns">
+          <section id="subfooter-left" class="b30 small-12 medium-8 columns">
             <ul class="inline-list">
               <li>Created by João Faria,<br> 
               powered by <a style="display:inline;" href="http://jekyllrb.com/" target="_blank">Jekyll</a> 
-              and designed by <a style="display:inline;" href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a> </li>
+              and designed by <a style="display:inline;" href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a><br>
+              favivon made by <a style="display:inline;" href="http://www.freepik.com/">Freepik</a> 
+              from <a style="display:inline;" href="www.flaticon.com">www.flaticon.com</a>
+              </li>
             </ul>
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+          <section id="subfooter-right" class="small-12 medium-4 columns social-icons">
             <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
