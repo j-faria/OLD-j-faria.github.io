@@ -6,8 +6,8 @@ publish:
 	git push --all origin
 
 
+commitmsg="Site refresh on $(date +%Y-%m-%d--%H:%M)"
 update:
 	jekyll build
 	git add -u
-	git commit --allow-empty -m "Site refresh at $(date +%Y-%m-%d)"
-	
+	git commit --allow-empty -m $commitmsg
