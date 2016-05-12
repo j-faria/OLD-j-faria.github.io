@@ -10,4 +10,4 @@ commitmsg="Site refresh on $(date +%Y-%m-%d--%H:%M)"
 update:
 	jekyll build
 	git add -u
-	git commit --allow-empty -m $commitmsg
+	git commit --allow-empty -m $(commitmsg)
