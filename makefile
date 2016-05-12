@@ -6,7 +6,9 @@ publish:
 	git push --all origin
 
 
-commitmsg="Site refresh on $(date +%Y-%m-%d--%H:%M)"
+ts := $(shell /bin/date "+%Y-%m-%d---%H-%M-%S")
+commitmsg="Site refresh on $(ts)"
+
 update:
 	jekyll build
 	git add -u
